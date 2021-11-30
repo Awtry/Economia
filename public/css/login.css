@@ -1,0 +1,17 @@
+.bodyLogin{
+    text-align: center;
+}
+
+.inputs{
+    border-radius: 10px;
+    width: 50%;
+    height: 100%;
+}
+
+.links{
+    color: orange;
+}
+
+.links:hover{
+    color: orangered;
+}

@@ -1,0 +1,15 @@
+.bodyCheckout{
+    text-align: center;
+}
+
+.inputs{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.inputCheck{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    float: right;
+}
